@@ -13,5 +13,5 @@ HTML5 • CSS3 • JavaScript (ES6) • Responsive Design • GitHub • VS Code
 
 ### 📫 Contact
 **Portfolio:** https://my-portfolio.my-style.in/  
-**LinkedIn:** https://www.linkedin.com/in/shibam-connect/
+**LinkedIn:** https://www.linkedin.com/in/shibam-connect-here/
 **Email:** resume.dev.shibam@gmail.com
