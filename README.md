@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shibam Banerjee 👋
+**Frontend Developer (HTML, CSS, JavaScript)** • MCA (2022) • Kolkata  
+I build clean, responsive UIs and convert Figma to pixel-perfect, production-ready pages.
 
-<!--
-**shibam-code/shibam-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech
+HTML5 • CSS3 • JavaScript (ES6) • Responsive Design • GitHub • VS Code • Figma
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+- **Portfolio Website** – Responsive single-page site · [Live](https://uiverse.great-site.net/) · [Code](https://github.com/shibam-code/Personal-Portfolio-Website.git)
+- **Figma → HTML** – Pixel-perfect conversion · [Live](https://positivus-marketing.likesyou.org/) · [Code](https://github.com/shibam-code/Figma-to-HTML-Conversion.git)
+- **To-Do App** – Add/Delete/Complete, DOM practice · [Live](https://to-do-list.html-5.me/) · [Code](https://github.com/shibam-code/Modern-To-Do-List.git)
+- **Scientific Calculator** – Pure JS logic · [Live](https://scientific-calculator.html-5.me/) · [Code](https://github.com/shibam-code/Scientific-Calculator.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+**Portfolio:** https://my-portfolio.my-style.in/  
+**LinkedIn:** https://www.linkedin.com/in/shibam-connect/
+**Email:** resume.dev.shibam@gmail.com
